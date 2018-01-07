@@ -1,5 +1,7 @@
 # browserify-p
 
+[![Build Status](https://travis-ci.org/rjz/browserify-p.svg?branch=master)](https://travis-ci.org/rjz/browserify-p)
+
 Cross-platform convenience: create output directories before invoking
 [`browserify`](https://github.com/browserify/browserify). Your mileage may vary.
 

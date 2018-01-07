@@ -14,7 +14,7 @@
     "url": "https://github.com/rjz/browserify-p"
   },
   "author": "RJ Zaworski <rj@rjzaworski.com>",
-  "license": "MIT",
+  "license": "WTFPL",
   "dependencies": {
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1"
